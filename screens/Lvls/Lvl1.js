@@ -260,6 +260,10 @@ const Lvls1 = ({navigation, route}) => {
               source={require('../../assets/Stage2/T1.png')}
               style={{width: windowWidth, height: 250}}
             />
+            <Image
+              source={require('../../assets/Stage2/T1.png')}
+              style={{width: windowWidth, height: 250}}
+            />
 
             <Text
               style={{
